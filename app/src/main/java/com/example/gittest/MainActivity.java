@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("123", "test1");
+        //其他人更改3
     }
     //其他人更改
     //其他人更改2
